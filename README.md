@@ -1,14 +1,17 @@
 # Weather AI Agent Pro
 
-Portfolio-ready starter using Flask + LangChain + xAI.
+An AI-powered weather assistant built using LangChain and Python.
 
 ## Features
 
--   xAI Grok via OpenAI-compatible endpoint
--   ReAct agent
--   OpenWeatherMap tool
--   DuckDuckGo search
--   Responsive chat UI
+-  Get current weather for any city
+-  AI-powered responses
+-  Simple web interface
+-  xAI Grok via OpenAI-compatible endpoint
+-  ReAct agent
+-  OpenWeatherMap tool
+-  DuckDuckGo search
+-  Responsive chat UI
 
 ## Setup
 
